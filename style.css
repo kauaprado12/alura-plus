@@ -18,3 +18,7 @@ body {
 .principal {
     background-image: url("landscape-photography-tips-yosemite-valley-feature.webp");
 }
+
+.container {
+    height: 100vh;
+}
